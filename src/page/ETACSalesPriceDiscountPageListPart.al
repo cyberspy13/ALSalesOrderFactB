@@ -42,6 +42,9 @@ page 50250 ETACSalesPriceDiscPageListPart
                     ToolTip = 'Specifies the value of the Line Discount % field.', Comment = '%';
                 }
             }
+            
         }
+        
     }
+    
 }

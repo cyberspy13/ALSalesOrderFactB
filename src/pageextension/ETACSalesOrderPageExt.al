@@ -12,7 +12,7 @@ pageextension 50251 ETACSalesOrderPageExt extends "Sales Order"
 
                     "Document No." = field("Document No."),
                     "No." = field("No."),
-                    "Unit Price" = field("Unit Price"),
+                    //"Unit Price" = field("Unit Price"),
                     "Line No." = field("Line No.");
 
             }
